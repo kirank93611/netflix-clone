@@ -1,0 +1,15 @@
+{
+  "name": "reactproject1",
+  "version": "1.0.0",
+  "description": "\"My first react project\",",
+  "main": ",",
+  "scripts": {
+    "test": "\"echo\\\"Error: no test specified\\\" && exit 1\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
