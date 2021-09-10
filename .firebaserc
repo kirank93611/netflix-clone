@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "build": "netflix-clone-d8d4d",
+    "default": "netflix-clone-d8d4d"
+  },
+  "targets": {}
+}
